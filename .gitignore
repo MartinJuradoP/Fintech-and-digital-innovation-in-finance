@@ -11,6 +11,8 @@ __pycache__/
 
 # Environments
 fintech/
+venv/
+**/venv/
 
 # PyInstaller
 *.manifest
